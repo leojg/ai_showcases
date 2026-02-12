@@ -1,0 +1,22 @@
+# Agentic RAG Demo - dependencies
+# Python 3.10+
+
+# LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0
+langchain-text-splitters>=0.3.0
+
+# PDF parsing
+pypdf>=5.0.0
+
+# OpenAI (embeddings)
+openai>=1.0.0
+
+# Anthropic (Claude)
+anthropic>=0.39.0
+
+# Environment
+python-dotenv>=1.0.0
