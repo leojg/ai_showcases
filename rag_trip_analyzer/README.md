@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 3. **Set up API keys:**
 ```bash
-cp .env.example .env
+cp ../.env.example .env
 # Edit .env and add your keys:
 # OPENAI_API_KEY=sk-...
 # ANTHROPIC_API_KEY=sk-ant-...
