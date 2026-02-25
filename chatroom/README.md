@@ -30,7 +30,7 @@ Unlike a standard chatbot:
 
 # Graph Architecture
 
-![Chatroom Graph Architecture](./static/chatroom_graph.png)
+![Chatroom Graph Architecture](https://raw.githubusercontent.com/leojg/ai_showcases/refs/heads/master/chatroom/static/chatroom_graph.PNG)
 
 
 # Technical Decisions
